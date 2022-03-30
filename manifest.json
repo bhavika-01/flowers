@@ -6,5 +6,5 @@
     "theme_color": "#ffd31d",
     "background_color": "#333",
     "display": "standalone",
-    "purpose" : "any",
+    "purpose" : "maskable any"
   }
